@@ -24,10 +24,10 @@ The live version of the coding quiz can be found at [Web Dev Quiz URL](https://d
 ### Screenshots
 
 #### Quiz Interface
-![Quiz Screenshot](./Assets/images/quiz-screenshot.png)
+![Quiz Screenshot](Assets/images/quiz.png)
 
 #### High Score Interface
-![High Score Screenshot](Assets/images/quiz.png)
+![High Score Screenshot](Assets/images/High score.png)
 
 ### Prerequisites
 
