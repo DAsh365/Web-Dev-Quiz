@@ -21,9 +21,13 @@ This is a timed coding quiz web application that allows users to test their know
 
 The live version of the coding quiz can be found at [Web Dev Quiz URL](https://dash365.github.io/Web-Dev-Quiz/).
 
-![Coding Quiz Screenshot](./assets/images/quiz.png)
+### Screenshots
 
-![High Score Screenshot](./assets/images/High%20score.png)
+#### Quiz Interface
+![Quiz Screenshot](./Assets/images/quiz-screenshot.png)
+
+#### High Score Interface
+![High Score Screenshot](./Assets/images/high-score-screenshot.png)
 
 ### Prerequisites
 
