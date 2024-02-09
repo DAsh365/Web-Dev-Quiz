@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Dev Quiz</title>
+    <link rel="stylesheet" href="./Assets/reset.css">
+    <link rel="stylesheet" href="./Assets/style.css">
+</head>
+<body>
+    <div id="quiz-header">
+        <header class='main-header'>
+            <h1 class="large-font">Web Dev Quiz</h1>
+            <p>Try to answer the following questions within the time limit. Incorrect answers will penalize your score by deducting time!</p>
+            <button id="start-button">Start Quiz</button>
+        </header>
+    </div>
+    <main id="quiz-content" class="hide">
+        <div id="question-container">
+            <p id="question-text"></p>
+        </div>
+        <div id="answer-buttons">
+        </div>
+        <div id="score-container">
+            <p>Score: <span id="score">0</span></p>
+        </div>
+        <div id="timer-container">
+            <p>Time: <span id="timer">0</span> seconds</p>
+        </div>
+    </main>
+    <div id="highscore-container" class="hide">
+        <h2>High Scores</h2>
+        <ul id="highscores-list"></ul>
+        <button id="go-back-btn">Go Back</button>
+    </div>
+    <footer>
+    </footer>
+    <script src="./Assets/script.js"></script>
+</body>
+</html>

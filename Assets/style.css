@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.main-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#quiz-content {
+    text-align: center;
+}
+
+#question-container {
+    margin-bottom: 20px;
+}
+
+#answer-buttons button {
+    background-color: red;
+    border: none;
+    border-radius: 25px;
+    color: white;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+#start-button {
+    background-color: red;
+    border: none;
+    border-radius: 25px;
+    color: white;
+    padding: 15px 32px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+#highscore-container {
+    text-align: center;
+}
+
+.hide {
+    display: none;
+}
